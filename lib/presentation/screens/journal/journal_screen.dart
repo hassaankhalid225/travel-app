@@ -10,7 +10,7 @@ class JournalController extends GetxController {
       'date': 'Oct 15, 2023',
       'title': 'Morning in Florence',
       'content': 'The light hitting the Duomo this morning was something I\'ll never forget. The marble glowed in shades of pink and gold...',
-      'image': 'https://images.unsplash.com/photo-1541167760496-162955ed8a9f?w=400',
+      'image': 'https://images.unsplash.com/photo-1541085388133-27083070cd2b?w=400',
       'location': 'Florence, Italy',
       'type': 'Voice Note'
     },
